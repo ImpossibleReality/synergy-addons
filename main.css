@@ -1,0 +1,18 @@
+body {
+    background-color:#323232;
+}
+#maincontent {
+    background-color: #333333;
+}
+#ep_StudentAssessments {
+    color: white;
+}
+#DistrictName {
+    color: white;
+}
+.gb-student-assignments-grid {
+    color: black;
+}
+#LoginSVUE {
+    color: white;
+}
