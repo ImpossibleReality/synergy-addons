@@ -1,9 +1,11 @@
 
-# (PUBLIC BETA) Synergy Addons v1.3
+# Synergy Addons v2.0.1
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint, nor should it be considered a project endorsed by Edupoint.
 
-## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
+## OUR POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
+
+## Please Note: When installing Synergy Addons for Google Chrome™, you will receive a warning that Synergy Addons will receive access to your browsing history and data. This is a standard message - we NEVER collect any user information.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons?color=%23ff0000)
@@ -15,6 +17,7 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
+[![CodeFactor](https://www.codefactor.io/repository/github/gubareve/synergy-addons/badge)](https://www.codefactor.io/repository/github/gubareve/synergy-addons)
 
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 
@@ -27,17 +30,17 @@ Including:
  - Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
  - Massively increases battery life
 2. Student ID Hider
- - Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money
+ - Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money!
 
 ## Images
-
-[Login](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png)
-
-[Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
+### Login Page
+![Login](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png)
+### Dashboard
+![Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
 
 ## Credit
 
-Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://github.com/thexpiredpear)
+Original project by [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree)
 
 
 ## Installation
@@ -55,17 +58,22 @@ or download this [file](https://github.com/gubareve/synergy-addons/archive/maste
 
 ## Usage
 
-You don't need to do anything. Whenever you visit StudentVUE, all the tweaks will be applied just like magic.
+You are able to turn this Extension on or off by clicking the synergy addons icon to the right of the address bar. Whenever you visit StudentVUE and the extension is activated, all the tweaks will be applied just like magic.
 
-## Contributing
+## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 If you make a big enough change, we will credit you.
 
 ## Note For Other Districts
 
-Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project with compliance with APACHE 2.0.
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest. Please provide a link to the original project with compliance with APACHE 2.0. Feel free to email me at [evan@evangubarev.com] if you have any questions.
+
+
+## Privacy Policy
+
+The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addons/blob/master/privacy.md)
 
 ## License
 [APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
-© KD7T Enterprises, Rishi Pudippedi, Johan Novak
+:copyright: 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)
